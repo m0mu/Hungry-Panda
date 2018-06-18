@@ -1,0 +1,48 @@
+.jumbotron {
+    background-image: url('Panda.jpg');
+    height: 655px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 15px;
+}
+
+.jumbotron h1 {
+    font-size: 105px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+.jumbotron .nav .container a {
+    display: inline;
+    color: inherit;
+    font-size: 30px;
+    font-weight: inherit;
+    text-transform: uppercase;
+    position: relative;
+    top: 120px;
+    left: 300px;
+    text-decoration: blink;
+    font-family: 'Shift', cursive;
+    font: inherit 30px Arial;
+    background-color: inherit;
+    padding: 6px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    border-radius: 14px;
+
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, 0.57);
+    border-color: #888;
+    box-shadow: 2px 2px 2px #ccc;
+}
+

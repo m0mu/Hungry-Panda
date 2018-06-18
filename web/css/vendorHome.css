@@ -1,0 +1,94 @@
+.jumbotron {
+    background-image: url("falling leaves.jpg");
+    background-size: cover;
+    height: 655px;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 15px;
+}
+
+.jumbotron h1 {
+    font-size: 40px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+.jumbotron h2 {
+    position: fixed;
+    right: 10px;
+    top: -10px;
+    font-size: 27px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+.jumbotron h3 {
+    font-family: 'Shift', cursive;
+    background-color: rgba(0, 0, 0, 0.57);
+    color: white;
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    padding: 2px 6px 2px 6px;
+    border-color: white;
+    border-style: solid;
+}
+
+.jumbotron .container {
+    color: black;
+    font-size: 27px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    text-shadow: 2px 2px white;
+}
+
+input[type=submit] {
+    font-family: 'Shift', cursive;
+    background-color: rgba(0, 0, 0, 0.57);
+    color: white;
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    padding: 6px 6px 2px 6px;
+    border-color: white;
+    border-style: solid;
+}
+
+input[type=submit]:hover {
+    background-color: rgba(0, 0, 0, 0.57);
+    border-color: #888;
+    box-shadow: 0 0 2px #ccc;
+}
+
+.jumbotron a {
+    font-family: 'Shift', cursive;
+    background-color: rgba(0, 0, 0, 0.57);
+    color: white;
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    padding: 6px 6px 2px 6px;
+    border-color: white;
+    border-style: solid;
+    text-decoration: blink;
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, 0.57);
+    border-color: #888;
+    box-shadow: 0 0 2px #ccc;
+}
+
+
+
+
+

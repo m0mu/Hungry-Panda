@@ -1,0 +1,79 @@
+.jumbotron {
+    background-image: url('Order Leaves.jpg');
+    background-size: cover;
+    height: 655px;
+    max-width: 100%;
+    overflow-x: hidden;;
+
+}
+
+.jumbotron h1 {
+    font-size: 50px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+}
+
+.jumbotron h2 {
+    position: relative;
+    font-size: 35px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    color: inherit;
+}
+
+.jumbotron h3 {
+    position: fixed;
+    right: 10px;
+    top: -10px;
+    font-size: 27px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+input[type=submit] {
+    font-family: 'Shift', cursive;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.57);
+    color: white;
+    font-size: 20px;
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    padding: 6px 6px 6px 6px;
+    text-decoration: blink;
+    border-color: white;
+    border-style: solid;
+}
+
+input[type=submit]:hover {
+    background-color: rgba(0, 0, 0, 0.57);
+    border-color: #888;
+    box-shadow: 0 0 2px #ccc;
+}
+
+.jumbotron a {
+    font-family: 'Shift', cursive;
+    background-color: rgba(0, 0, 0, 0.57);
+    color: white;
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    padding: 6px 6px 2px 6px;
+    border-color: white;
+    border-style: solid;
+    text-decoration: blink;
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, 0.57);
+    border-color: #888;
+    box-shadow: 0 0 2px #ccc;
+}
+
+
+
+
+

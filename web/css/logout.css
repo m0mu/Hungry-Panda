@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url("falling leaves.jpg");
+    background-size: cover;
+    height: 655px;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.jumbotron h1 {
+    font-size: 40px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 250px;
+    top: 150px;
+
+}

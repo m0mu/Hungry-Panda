@@ -1,0 +1,84 @@
+.jumbotron {
+    background-image: url('Order Leaves.jpg');
+    background-size: cover;
+    height: 655px;
+    max-width: 100%;
+    overflow-x: hidden;
+
+}
+
+.jumbotron h1 {
+    font-size: 60px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+input[type=submit] {
+    background-color: rgba(0, 0, 0, 0.57);
+    color:white;
+    -moz-border-radius:10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    padding: 2px 6px 2px 6px;
+    border-color: white;
+    border-style:solid;
+
+}
+input[type=submit]:hover
+{
+    background-color: rgba(0, 0, 0, 0.57);
+    border-color:#888;
+    box-shadow:0 0 2px #ccc;
+}
+
+.jumbotron .container {
+    font-family: 'Shift', cursive;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.57);
+    -moz-border-radius:10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    padding: 2px 6px 2px 6px;
+    border-color: white;
+    border-style:solid;
+}
+
+.jumbotron h2 {
+    position: fixed;
+    right: 10px;
+    top: -10px;
+    font-size: 27px;
+    font-family: 'Shift', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+.jumbotron a {
+    background-color: rgba(0, 0, 0, 0.57);
+    color: white;
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    padding: 6px 6px 2px 6px;
+    border-color: white;
+    border-style: solid;
+    text-decoration: blink;
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, 0.57);
+    border-color: #888;
+    box-shadow: 0 0 2px #ccc;
+}
+
+
+
+
+
+
+
